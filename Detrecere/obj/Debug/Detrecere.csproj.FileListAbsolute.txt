@@ -1,0 +1,9 @@
+C:\Users\steli\Downloads\SelfSustainAI-master\Detrecere\Detrecere\bin\Debug\Detrecere.exe.config
+C:\Users\steli\Downloads\SelfSustainAI-master\Detrecere\Detrecere\bin\Debug\Detrecere.exe
+C:\Users\steli\Downloads\SelfSustainAI-master\Detrecere\Detrecere\bin\Debug\Detrecere.pdb
+C:\Users\steli\Downloads\SelfSustainAI-master\Detrecere\Detrecere\obj\Debug\Detrecere.csprojAssemblyReference.cache
+C:\Users\steli\Downloads\SelfSustainAI-master\Detrecere\Detrecere\obj\Debug\Detrecere.Form1.resources
+C:\Users\steli\Downloads\SelfSustainAI-master\Detrecere\Detrecere\obj\Debug\Detrecere.Properties.Resources.resources
+C:\Users\steli\Downloads\SelfSustainAI-master\Detrecere\Detrecere\obj\Debug\Detrecere.csproj.GenerateResource.cache
+C:\Users\steli\Downloads\SelfSustainAI-master\Detrecere\Detrecere\obj\Debug\Detrecere.exe
+C:\Users\steli\Downloads\SelfSustainAI-master\Detrecere\Detrecere\obj\Debug\Detrecere.pdb

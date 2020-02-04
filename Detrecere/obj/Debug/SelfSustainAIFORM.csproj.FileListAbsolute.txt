@@ -1,0 +1,10 @@
+C:\Users\win\Documents\Visual Studio 2017\Projects\SelfSustainAIFORM\SelfSustainAIFORM\bin\Debug\SelfSustainAIFORM.exe.config
+C:\Users\win\Documents\Visual Studio 2017\Projects\SelfSustainAIFORM\SelfSustainAIFORM\bin\Debug\SelfSustainAIFORM.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\SelfSustainAIFORM\SelfSustainAIFORM\bin\Debug\SelfSustainAIFORM.pdb
+C:\Users\win\Documents\Visual Studio 2017\Projects\SelfSustainAIFORM\SelfSustainAIFORM\obj\Debug\SelfSustainAIFORM.csprojAssemblyReference.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\SelfSustainAIFORM\SelfSustainAIFORM\obj\Debug\SelfSustainAIFORM.Form1.resources
+C:\Users\win\Documents\Visual Studio 2017\Projects\SelfSustainAIFORM\SelfSustainAIFORM\obj\Debug\SelfSustainAIFORM.Properties.Resources.resources
+C:\Users\win\Documents\Visual Studio 2017\Projects\SelfSustainAIFORM\SelfSustainAIFORM\obj\Debug\SelfSustainAIFORM.csproj.GenerateResource.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\SelfSustainAIFORM\SelfSustainAIFORM\obj\Debug\SelfSustainAIFORM.csproj.CoreCompileInputs.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\SelfSustainAIFORM\SelfSustainAIFORM\obj\Debug\SelfSustainAIFORM.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\SelfSustainAIFORM\SelfSustainAIFORM\obj\Debug\SelfSustainAIFORM.pdb
